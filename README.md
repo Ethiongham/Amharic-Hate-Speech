@@ -1,0 +1,2 @@
+# Amharic-Hate-Speech
+NLP
